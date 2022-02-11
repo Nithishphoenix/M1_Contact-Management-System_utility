@@ -1,1 +1,16 @@
+INTRODUCTION:
+            The Contact Management System project is the utlity based mini project.A contact manager is a software program that enables users to easily store and find contact information, such as names, addresses, and telephone numbers
+            They are contact-centric databases that provide a fully integrated approach to tracking all information and communication activities linked to contacts.Simple ones for personal use are included in most smartphones.
+            The tool used for writing the code in this project is visual studio code.This project has multi file and multiplatform approach (Linux and Windows).
+ RESEARCH:
+           In management terminology, advanced contact managers can be called individual resource management (IRM) or contact management (CM) tools – systems for managing an individual's interactions with current and future contacts, to organize,
+           collaborate, and synchronize health, lifestyle, and financial needs.
+ Defining System:
+           Design and testing operations of Contact Management System using unit testing algorithm.          
+ High Level Requirements:
+           Email address
+ Low Level Requirements:
+           *phone Number
+           *Name
 
+            
