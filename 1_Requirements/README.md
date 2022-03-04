@@ -52,7 +52,8 @@ How: Gets the user input and gives the output.
 
 |`      `*ID|`                 `Description|`            `Status*|
 | :- | :- | :- |
-|LL01\_HL01|` `Contact Management system adds the name | Implemented |
-|LL02\_HL02|` `Contact Management system adds the email id|Implemented |
+|LL01\_HL01|` `Contact Management system adds the name,email id,mobile number | Implemented |
+|LL02\_HL02|` `Contact Management system search the contacts|Implemented |
 |LL03\_HL03|` `Contact Management system list the contacts|Implemented |
+|LL04\_HL04|` `Contact Management system Delete the contacts|Implemented |
 
