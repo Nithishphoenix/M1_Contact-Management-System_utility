@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"Contact Management System.h"
+#include"func.h"
 struct contact
 {
 	char name[100];
