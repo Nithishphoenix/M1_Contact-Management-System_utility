@@ -14,7 +14,7 @@
 
 ## codacy batch
 
-[![Codacy Badge][![Codacy Badge](https://app.codacy.com/project/badge/Grade/72ecc115f0bb42189b714e928a0a6228)](https://www.codacy.com/gh/Nithishphoenix/M1_Contact-Management-System_utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nithishphoenix/M1_Contact-Management-System_utility&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/72ecc115f0bb42189b714e928a0a6228)](https://www.codacy.com/gh/Nithishphoenix/M1_Contact-Management-System_utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nithishphoenix/M1_Contact-Management-System_utility&amp;utm_campaign=Badge_Grade)
 
 
 ## Folder Structure
