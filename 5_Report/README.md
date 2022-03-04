@@ -57,13 +57,21 @@ How: Gets the user input and gives the output.
 |LL03\_HL03|` `Contact Management system list the contacts|Implemented |
 |LL04\_HL04|` `Contact Management system Delete the contacts|Implemented |
 
+# STRUCTURED DIAGRAM
 
+![Structured High Level Diagram](https://user-images.githubusercontent.com/98878162/156723192-5f88cecd-d45e-4872-8aa2-a0b5f87e5083.PNG)
+![Structured Low level Diagram](https://user-images.githubusercontent.com/98878162/156723198-354c25e8-024d-4d15-a3e4-d34cd78983b3.PNG)
 
-
+# BEHAVIOUR DIAGRAM
+![Behaviour diagram high level](https://user-images.githubusercontent.com/98878162/156723288-a4c6c4ea-d92c-4d5c-91a2-d890960d6533.PNG)
+![Behaviour diagram low level](https://user-images.githubusercontent.com/98878162/156723293-cf41db96-d941-49e9-85cf-d0e3440efda7.PNG)
 
 # HIGH LEVEL TEST PLAN
 ![high level test plan](https://user-images.githubusercontent.com/98878162/156717245-43fce21b-bb64-4945-9377-67d8e9690e75.JPG)
 # LOW LEVEL TEST PLAN
 ![low level test plan](https://user-images.githubusercontent.com/98878162/156722311-c45ff4f9-474c-4ab3-828e-2ccbe8f91371.JPG)
+
+# OUTPUT
+
 
 
